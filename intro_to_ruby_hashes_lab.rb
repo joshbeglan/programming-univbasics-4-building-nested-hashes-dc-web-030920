@@ -1,5 +1,5 @@
 def base_hash
-	{railroads: "B"}
+	{railroads: "B&O"}
 end
 
 def monopoly_with_second_tier
